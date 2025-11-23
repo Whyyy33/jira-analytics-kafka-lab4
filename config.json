@@ -1,0 +1,5 @@
+{
+    "jira_server": "https://issues.apache.org/jira",
+    "project_key": "KAFKA",
+    "max_results": 1000
+}
